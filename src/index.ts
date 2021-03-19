@@ -1,1 +1,1 @@
-export * from '@hattrickltd/hattrick-components';
+export * from './components';

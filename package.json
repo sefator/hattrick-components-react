@@ -6,7 +6,7 @@
   "description": "React wrapper for hattrick-components",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic.git"
+    "url": "https://github.com/sefator/hattrick-components-react.git"
   },
   "scripts": {
     "build": "npm run clean && npm run compile",

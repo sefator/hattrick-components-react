@@ -2,7 +2,7 @@
   "name": "hattrick-components-react",
   "sideEffects": false,
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "description": "React wrapper for hattrick-components",
   "repository": {
     "type": "git",
